@@ -26,3 +26,5 @@ class VectorSameSize:
 
     def __repr__(self):
         return "Vector [{0}]".format(','.join(map(str, self.coords)))
+
+# test
